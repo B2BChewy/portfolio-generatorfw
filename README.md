@@ -1,6 +1,6 @@
 <h1 align='center'>portfolio-generator</h1>
 
-### By likica * [Email me](mailto:codefin9@hotmail.com) * 
+### By B2BChewy * [Email me](mailto:codefin9@hotmail.com) * 
   * [Walkthrough-video Link](https://drive.google.com) 
 <br></br>
 

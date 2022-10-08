@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/Likica/portfolio-generator#readme",
   "dependencies": {
-    "inquirer": "^8.0.0"
-  }
+    "fs": "0.0.1-security",
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {}
 }
